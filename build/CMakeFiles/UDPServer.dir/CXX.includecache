@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/franka-ws/manipulation/minimal_cpp_upd_server/main.cpp
+iostream
+-
+boost/array.hpp
+-
+boost/asio.hpp
+-
+thread
+-
+

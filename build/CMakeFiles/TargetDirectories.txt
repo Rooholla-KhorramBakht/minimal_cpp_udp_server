@@ -1,0 +1,3 @@
+/home/franka-ws/manipulation/minimal_cpp_upd_server/build/CMakeFiles/rebuild_cache.dir
+/home/franka-ws/manipulation/minimal_cpp_upd_server/build/CMakeFiles/edit_cache.dir
+/home/franka-ws/manipulation/minimal_cpp_upd_server/build/CMakeFiles/UDPServer.dir
